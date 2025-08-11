@@ -1,0 +1,47 @@
+{
+  "stngs": [
+    {
+    "tai": 20,
+    "sumimp": 2
+    }
+  ],
+  "offers": [
+    {
+      "geo": "UA",
+      "urls": [
+        {
+          "offer_id": "of_001",
+          "url": "https://track.cpa.com/click?offer_id=123",
+          "text": "Download super-app",
+          "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/31197/screenshots/screenshot_1.jpg"
+        },
+        {
+          "offer_id": "of_002",
+          "url": "https://track.cpa.com/click?offer_id=124",
+          "image_url": "https://cdn.site.com/banners/ua_offer2.png"
+        }
+      ]
+    },
+    {
+      "geo": "CZ",
+      "urls": [
+        {
+          "offer_id": "of_010",
+          "url": "https://track.cpa.com/click?offer_id=200",
+          "image_url": "https://cdn.site.com/banners/cz_offer1.png"
+        },
+        {
+          "offer_id": "of_011",
+          "url": "https://track.cpa.com/click?offer_id=201",
+          "image_url": "https://cdn.site.com/banners/cz_offer2.png"
+        }
+      ]
+    }
+  ],
+  "smrtlnk": [
+    "https://track.cpa.com/smartlink?sl=111",
+    "https://track.cpa.com/smartlink?sl=222",
+    "https://track.cpa.com/smartlink?sl=333"
+  ]
+  
+}
