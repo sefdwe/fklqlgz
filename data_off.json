@@ -10,14 +10,16 @@
       "geo": "UA",
       "urls": [
         {
-          "of_001": {
+          "offer_id": "of_001",
+          "data": {
             "url": "https://track.cpa.com/click?offer_id=123",
             "text": "Download super-app",
             "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/31197/screenshots/screenshot_1.jpg"
           }
         },
         {
-          "of_002": {
+          "offer_id": "of_002",
+          "data": {
             "url": "https://track.cpa.com/click?offer_id=124",
             "image_url": "https://cdn.site.com/banners/ua_offer2.png"
           }
@@ -28,13 +30,15 @@
       "geo": "CZ",
       "urls": [
         {
-          "of_010": {
+          "offer_id": "of_010",
+          "data": {
             "url": "https://track.cpa.com/click?offer_id=200",
             "image_url": "https://cdn.site.com/banners/cz_offer1.png"
           }
         },
         {
-          "of_011": {
+          "offer_id": "of_011",
+          "data": {
             "url": "https://track.cpa.com/click?offer_id=201",
             "image_url": "https://cdn.site.com/banners/cz_offer2.png"
           }
