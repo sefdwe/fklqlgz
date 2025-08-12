@@ -1,46 +1,384 @@
 {
   "stngs": [
     {
-      "tai": 0,
-      "sumimp": 2
+      "tai": 20,
+      "sumimp": 3
     }
   ],
   "offers": [
+    
     {
-      "geo": "UA",
+      "geo": "ID",
       "urls": [
         {
-          "offer_id": "of_001",
+          "offer_id": "28706",
           "data": {
-            "url": "https://track.cpa.com/click?offer_id=123",
-            "text": "Download super-app",
-            "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/31197/screenshots/screenshot_1.jpg"
+            "url": "https://www.gravelroat.info/click?offer_id=28706&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Menangkan Samsung A53",
+            "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/28706/screenshots/screenshot_1.jpg"
+          }
+        },
+        
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Menangkan Kotak Misteri",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
           }
         },
         {
-          "offer_id": "of_002",
+          "offer_id": "33517",
           "data": {
-            "url": "https://track.cpa.com/click?offer_id=124",
-            "image_url": "https://cdn.site.com/banners/ua_offer2.png"
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Lulus ujian dan dapatkan uang",
+            "image_url": "https://www.visiansystems.com/images/media/portfolio/88e77e7e27b435014c89949b2378db7b1708262576.webp"
+          }
+        }
+
+      ]
+    },
+
+        {
+      "geo": "BR",
+      "urls": [
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Responda à pesquisa e ganhe dinheiro",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ganhe uma caixa misteriosa",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        },
+        {
+          "offer_id": "33513",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Responda à pesquisa e ganhe dinheiro",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Responda à pesquisa e ganhe dinheiro",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
           }
         }
       ]
     },
     {
-      "geo": "CZ",
+      "geo": "IN",
       "urls": [
         {
-          "offer_id": "of_010",
+          "offer_id": "33160",
           "data": {
-            "url": "https://track.cpa.com/click?offer_id=200",
-            "image_url": "https://cdn.site.com/banners/cz_offer1.png"
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Win Mistery Box",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "EG",
+      "urls": [
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "اربح صندوق الغموض",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
           }
         },
         {
-          "offer_id": "of_011",
+          "offer_id": "33513",
           "data": {
-            "url": "https://track.cpa.com/click?offer_id=201",
-            "image_url": "https://cdn.site.com/banners/cz_offer2.png"
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "قم بإجراء الاستطلاع واحصل على المال",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "قم بإجراء الاستطلاع واحصل على المال",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "US",
+      "urls": [
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Win Mistery Box",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        },
+        {
+          "offer_id": "32042",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=32042&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/32042/screenshots/screenshot_1.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "NL",
+      "urls": [
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Win Mysterie Box",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        },
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe mee aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "RU",
+      "urls": [
+        
+      ]
+    },
+
+    {
+      "geo": "TR",
+      "urls": [
+        
+      ]
+    },
+
+    {
+      "geo": "AR",
+      "urls": [
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Gana la caja misteriosa",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        },
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33513",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "CO",
+      "urls": [
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Gana la caja misteriosa",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        },
+        {
+          "offer_id": "33513",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "US",
+      "urls": [
+        {
+          "offer_id": "32042",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=32042&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/32042/screenshots/screenshot_1.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "VE",
+      "urls": [
+        {
+          "offer_id": "33160",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33160&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Gana la caja misteriosa",
+            "image_url": "https://workmanusa.com/cdn/shop/files/box.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "MX",
+      "urls": [
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Responde la encuesta y gana dinero",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "32934",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=32934&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Descargador de APK personalizado",
+            "image_url": "https://cdnaws.mobidea.com/public/files/sw/applications/32934/screenshots/screenshot_1.jpg"
+          }
+        },
+        {
+          "offer_id": "33513",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Doe me aan de enquête en ontvang geld",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "geo": "PH",
+      "urls": [
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Kunin ang survey at makakuha ng pera",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+
+    {
+      "geo": "MY",
+      "urls": [
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ambil tinjauan dan dapatkan wang",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33513",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ambil tinjauan dan dapatkan wang",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ambil tinjauan dan dapatkan wang",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "geo": "UA",
+      "urls": [
+        {
+          "offer_id": "33517",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33517&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ambil tinjauan dan dapatkan wang",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33513",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33513&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ambil tinjauan dan dapatkan wang",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
+          }
+        },
+        {
+          "offer_id": "33512",
+          "data": {
+            "url": "https://www.gravelroat.info/click?offer_id=33512&pub_id=269967&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE&pub_sub_id=PASS_PLACEMENT_HERE",
+            "text": "Ambil tinjauan dan dapatkan wang",
+            "image_url": "https://static.tildacdn.one/tild6364-3038-4538-b061-623739626466/pexels-alexander-mil.jpg"
           }
         }
       ]
